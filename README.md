@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiochoirul
 - 👀 I’m interested in C#, VB, SQL, KOTLIN 
-- 🌱 I’m currently learning Android Developer with Kotlin
+- 🌱 I’m currently learning Android Developer with Kotlin & Flutter
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me mtio871@gmail.com
 
