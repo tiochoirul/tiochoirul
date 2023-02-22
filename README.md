@@ -21,14 +21,16 @@ I love the whole app development process. I like the challenge of finding bugs a
 
 ### 🤝 Connect with me:
 
+<p align="center">
 <a href="https://id.linkedin.com/in/tio-choirul-muhammad-518a8314a" target="_blank"><img alt="Tio Choirul | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mtio871@gmail.com" target="_blank"><img alt="Tio Choirul | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/xxxviiimmi" target="_blank"><img alt="Tio Choirul | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://instagram.com/tiochoirul" target="_blank"><img alt="Tio Choirul | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://tiktok.com/@xxxviiimmi" target="_blank"><img alt="Tio Choirul | TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 <a href="https://twitter.com/xxxviiimmi_" target="_blank"><img alt="Tio Choirul | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+</p>
+
+<i>💬 If you have any question/feedback, please do not hesitate to reach out to me! 💬 </i>
 
 ## 🔭 I'm currently working on
 
