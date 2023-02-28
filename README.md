@@ -59,7 +59,7 @@ I love the whole app development process. I like the challenge of finding bugs a
 
 
 ## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiochoirul&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tiochoirul&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiochoirul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiochoirul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
