@@ -34,7 +34,7 @@ I love the whole app development process. I like the challenge of finding bugs a
 
 ## 🔭 I'm currently working on
 
-- VB.NET programmer in a manufacturing company
+- Programmer in a manufacturing company
 - Mobile App: Yasin & Tahlil Apps (Soon...)
 - My TikTok video 👀
 
